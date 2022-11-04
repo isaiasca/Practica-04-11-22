@@ -42,7 +42,7 @@
                         <g clip-path="url(#clip0)" fill="#EF3B2D">
                             <div>
                                 <a href="https://github.com/isaiasca/Practica-04-11-22">
-                                    <font color="blue" face="didot" size=15>
+                                    <font color="blue" face="didot" size=15 >
                                         <p>
                                             ISAIAS
                                         </p>
