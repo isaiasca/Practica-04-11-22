@@ -12,12 +12,11 @@
     <style>
         .card{
             
-            margin-top:100px;
         
-            margin-top: 250px;
+            margin-top: 200px;
            
-            width: 18rem;
-            height: 18rem;
+            width: 30rem;
+            height: 35rem;
             margin-left: auto;
             margin-right: auto;
             
@@ -36,7 +35,7 @@
         .card-link{
             margin-top: 14px;
             
-            margin-left: 45px;
+            margin-left: 150px;
            
             
         }       
@@ -45,12 +44,12 @@
     </style>
 
     <div class="card" >
-        <img src="..." class="img-card" alt="...">
+        <img src="https://elperuano.pe/fotografia/thumbnail/2021/10/15/000135611M.jpg" class="img-card" alt="...">
         <div class="card-body">
             <h5 class="card-title">Tingo María</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="views/arte" class="card-link">Card link</a>
-            <a href="#" class="card-link">Another link</a>
+            <p class="card-text">Tingo María en el centro de Perú, entre las montañas andinas y la selva amazónica. Aquí se encuentra el Parque nacional Tingo María que posee una abundante biodiversidad y es conocido por la Bella Durmiente.</p>
+            <a href="http://127.0.0.1:8000/comida" class="card-link">COMIDA</a>
+            <a href="http://127.0.0.1:8000/arte" class="card-link">ARTE</a>
         </div>
     </div>
 

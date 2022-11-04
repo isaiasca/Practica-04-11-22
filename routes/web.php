@@ -25,6 +25,6 @@ Route::get('/arte', function () {
     return view('arte');
 });
 
-Route::get('/commida', function () {
+Route::get('/comida', function () {
     return view('comida');
 });
