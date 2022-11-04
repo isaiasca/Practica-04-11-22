@@ -20,3 +20,11 @@ Route::get('/', function () {
 Route::get('/historia', function () {
     return view('historia');
 });
+
+Route::get('/arte', function () {
+    return view('arte');
+});
+
+Route::get('/commida', function () {
+    return view('comida');
+});
